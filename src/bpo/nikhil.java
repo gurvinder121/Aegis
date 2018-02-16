@@ -6,7 +6,7 @@ public class nikhil
 	public int add( int x , int y)
 	{
 		
-		c= x+y;
+		c= x+y+z;
 		return c;
 		
 	}
