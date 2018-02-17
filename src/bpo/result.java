@@ -8,7 +8,6 @@ public class result
 	public static int exp1(int x, int y) {
 		int c;
 		c = x * x + y * y;
-		int o;
 		return c;
 	}
 
